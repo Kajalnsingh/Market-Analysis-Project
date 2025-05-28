@@ -14,10 +14,36 @@ Customer Reviews & Sentiment
 
 🔍 Key Insights
 📈 **9.57% Conversion Rate** across 3 years with over 198 total conversions analyzed.
-👁️** Over 9 million views, 2 million clicks, and 414K likes** tracked to measure social media effectiveness.
-🌟 1363 customer reviews analyzed with an** average rating of 3.69** — enabling sentiment segmentation by month, category, and rating.
-💬 Actionable sentiment insights categorized into Excellent, Good, Average, and Bad helped uncover customer satisfaction trends.
-📊 Conversion rates varied across** 20+ product categories with Hockey Sticks (15.46%) and Ski Boots (14.61%)** showing the highest rates.
+
+Key Insights
+✅ Conversion Rate: Achieved an overall 9.57% conversion rate with 198 total conversions tracked over three years.
+
+👁️ Social Media Performance:
+
+9M+ views,
+
+2M clicks,
+
+414K likes — highlighting content reach and user engagement.
+
+🌟 Customer Reviews:
+
+1363 total reviews analyzed
+
+3.69 average rating, giving insights into user satisfaction.
+
+💬 Sentiment Analysis:
+
+Reviews categorized as Excellent, Good, Average, and Bad,
+
+Sentiment trends observed monthly to identify satisfaction patterns.
+
+📦 Top Performing Products:
+
+Highest conversion rates seen in Hockey Stick (15.46%),
+
+Followed by Ski Boots (14.61%) and Baseball Glove (13.68%).
+
 
 📌 Features
 Dynamic filters for Year, Month, Product, Content Type, and Sentiment Category
