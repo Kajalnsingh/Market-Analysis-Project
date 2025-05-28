@@ -1,4 +1,5 @@
-📊 Market Analysis Dashboard 
+📊 Market Analysis Dashboard : 
+
 This project presents a comprehensive Market Analysis Dashboard built using Power BI, designed to evaluate product conversion trends, social media engagement, and customer sentiment over three years (2023–2025). The project uses data imported from a .bak file into SQL Server Management Studio (SSMS), followed by transformation and visualization in Power BI.
 
 📁 Project Workflow
