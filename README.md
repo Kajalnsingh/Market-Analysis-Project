@@ -19,11 +19,8 @@ Key Insights
 ✅ Conversion Rate: Achieved an overall 9.57% conversion rate with 198 total conversions tracked over three years.
 
 👁️ Social Media Performance:
-
 9M+ views,
-
 2M clicks,
-
 414K likes — highlighting content reach and user engagement.
 
 🌟 Customer Reviews:
