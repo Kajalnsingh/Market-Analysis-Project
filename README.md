@@ -1,4 +1,5 @@
 📊 Market Analysis Dashboard : 
+
 This project presents a comprehensive Market Analysis Dashboard built using Power BI, designed to evaluate product conversion trends, social media engagement, and customer sentiment over three years (2023–2025). The project uses data imported from a .bak file into SQL Server Management Studio (SSMS), followed by transformation and visualization in Power BI.
 
 📁 Project Workflow
@@ -12,11 +13,11 @@ Social Media Analytics
 Customer Reviews & Sentiment
 
 🔍 Key Insights
-📈 9.57% Conversion Rate across 3 years with over 198 total conversions analyzed.
-👁️ Over 9 million views, 2 million clicks, and 414K likes tracked to measure social media effectiveness.
-🌟 1363 customer reviews analyzed with an average rating of 3.69 — enabling sentiment segmentation by month, category, and rating.
+📈 **9.57% Conversion Rate** across 3 years with over 198 total conversions analyzed.
+👁️** Over 9 million views, 2 million clicks, and 414K likes** tracked to measure social media effectiveness.
+🌟 1363 customer reviews analyzed with an** average rating of 3.69** — enabling sentiment segmentation by month, category, and rating.
 💬 Actionable sentiment insights categorized into Excellent, Good, Average, and Bad helped uncover customer satisfaction trends.
-📊 Conversion rates varied across 20+ product categories with Hockey Sticks (15.46%) and Ski Boots (14.61%) showing the highest rates.
+📊 Conversion rates varied across** 20+ product categories with Hockey Sticks (15.46%) and Ski Boots (14.61%)** showing the highest rates.
 
 📌 Features
 Dynamic filters for Year, Month, Product, Content Type, and Sentiment Category
